@@ -1,5 +1,30 @@
 # NgPromise
 
+## Step by Step
+
+1. Create a new project
+
+```bash
+ng new ng-promise
+```
+
+2. Install Angular Material Design
+
+```bash
+npm install --save @angular/material @angular/cdk @angular/animations
+```
+
+```bash
+ng add @angular/material
+```
+
+3. Install gesture component
+
+```bash
+npm install --save hammerjs
+```
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
 ## Development server
